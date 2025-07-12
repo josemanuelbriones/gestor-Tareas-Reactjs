@@ -3,7 +3,13 @@ Desarrollar una aplicación web para gestionar tareas (ToDo), que consuma una AP
 
 
 Instrucciones:
+Backend
 - Instalar nodejs (https://nodejs.org/)
-- Descargar el backend para las pruebas (enlace: )
-- Instalación de dependencias (npm install)
+- Descargar el backend para las pruebas (enlace: https://github.com/josemanuelbriones/backNotas.git)
+- Instalación de dependencias (npm install) 
+- Ejecutar la aplicación (npm start)
+
+Frontend
+- Descargar la prueba (git clone https://github.com/josemanuelbriones/gestor-Tareas-Reactjs.git)
+- Instalación de dependencias (npm install) 
 - Ejecutar la aplicación (npm start)
